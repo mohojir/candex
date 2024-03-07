@@ -1,6 +1,6 @@
 {
   "name": "candex",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mohojir/candex"
+    "url": "git+https://github.com/mohojir/candex.git"
   },
   "author": "",
   "license": "ISC",
